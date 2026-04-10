@@ -1,0 +1,6 @@
+1020,your age,10,23,21,22,1
+1020,your country,china,canada,srilanka,india,2
+1030,your current city,jaffna,colombo,galle,manar,0
+1030,how many childeren you have,1,5,7,0,3
+1050,your gender,male,female,both,not in answer,0
+1050,birth year,2000,1999,2020,2002,3

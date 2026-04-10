@@ -1,0 +1,7 @@
+USER8786,kanifer,Admin123*,admin
+USER8789,Sammu,Sammu1234*,student
+USER8785,Niro,Niro123*,teacher
+
+USER8790,Dinu,Dinu123*,teacher
+USER8791,Kajoornan,Kajoo@123,student
+USER8792,sivaganka,sivA@123,teacher
